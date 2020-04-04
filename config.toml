@@ -45,7 +45,9 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/origami-all.JPG"
+#    bgImage = "images/origami-all.JPG"
+    bgImage = "images/bg1.jpg"
+#    bgImageSP = "images/bg1.jpg"
     heading = "Ancient and modern meet"
     content= "We are ORIGAMI. Dancers in Japan."
     content2 = "Bringing together authentic Japanese flavour and present on one stage."
